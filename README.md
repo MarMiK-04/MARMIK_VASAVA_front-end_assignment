@@ -1,48 +1,29 @@
-🛠 Tech Stack Used
+<div align="center">
 
-React (frontend UI)
+# 🧠 Test Your Knowledge — Quiz App  
 
-TypeScript (type safety & better development experience)
+A simple & interactive quiz application built using **React**, **TypeScript**, and **Vite**.
 
-Vite (bundler & development server)
+🔗 **Live Demo:**  
+👉 https://marmik-vasava-frontend-assignment-bgxo32eeq.vercel.app/
 
-CSS (custom styling)
+</div>
 
-Vercel (production deployment)
+---
 
-✨ Key Features Implemented
+## 📌 Setup Instructions
 
-Multi-step quiz with 4 simple knowledge-based questions
+Follow the steps below to run the project locally:
 
-Progress indicator to show the current question
+```bash
+# Clone the repository
+git clone https://github.com/MarMiK-04/MARMIK_VASAVA_front-end_assignment.git
 
-Score calculation based on correct answers
+# Navigate to the folder
+cd MARMK_VASAVA_front-end_assignment
 
-UI feedback for selected answers
+# Install dependencies
+npm install
 
-Final score summary after quiz completion
-
-Option to restart quiz
-
-Fully responsive layout across devices
-
-🧠 Assumptions Made
-
-Quiz questions and correct answers are stored locally in the frontend
-
-Each question has only one correct answer
-
-No user authentication required
-
-No backend API is needed for this version
-
-⏱ Time Spent on the Assignment
-Task	Time
-Project setup	1 hr
-Creating UI components	2–3 hrs
-Quiz logic + state management	2 hrs
-Styling & responsiveness	1 hr
-Testing & bug fixing	0.5 hr
-Deployment & documentation	0.5 hr
-Total Estimated Time	7–8 hours
-
+# Run the development server
+npm run dev
