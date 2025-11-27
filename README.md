@@ -43,7 +43,6 @@ https://marmik-vasava-frontend-assignment-bgxo32eeq.vercel.app/
 ### 📍 Final Result Screen
 <img src="screenshots/screen3.png" alt="Score Screen" width="800"/>
 
-> Screenshots must be placed inside a folder: `screenshots/`
 
 ---
 
