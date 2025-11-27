@@ -41,7 +41,7 @@ https://marmik-vasava-frontend-assignment-bgxo32eeq.vercel.app/
 <img src="screenshots/screen1.png" alt="Question Screen" width="800"/>
 
 ### 📍 Final Result Screen
-<img src="screenshots/screen3.png" alt="Score Screen" width="800"/>
+<img src="screenshots/screen2.png" alt="Score Screen" width="800"/>
 
 
 ---
